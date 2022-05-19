@@ -1,0 +1,1461 @@
+,Neighborhood,Exterior1st,Exterior2nd,SalePrice
+0,CollgCr,VinylSd,VinylSd,208500
+1,Veenker,MetalSd,MetalSd,181500
+2,CollgCr,VinylSd,VinylSd,223500
+3,Crawfor,Wd Sdng,Wd Shng,140000
+4,NoRidge,VinylSd,VinylSd,250000
+5,Mitchel,VinylSd,VinylSd,143000
+6,Somerst,VinylSd,VinylSd,307000
+7,NWAmes,HdBoard,HdBoard,200000
+8,OldTown,BrkFace,Wd Shng,129900
+9,BrkSide,MetalSd,MetalSd,118000
+10,Sawyer,HdBoard,HdBoard,129500
+11,NridgHt,WdShing,Wd Shng,345000
+12,Sawyer,HdBoard,Plywood,144000
+13,CollgCr,VinylSd,VinylSd,279500
+14,NAmes,MetalSd,MetalSd,157000
+15,BrkSide,Wd Sdng,Wd Sdng,132000
+16,NAmes,Wd Sdng,Wd Sdng,149000
+17,Sawyer,MetalSd,MetalSd,90000
+18,SawyerW,VinylSd,VinylSd,159000
+19,NAmes,BrkFace,Plywood,139000
+20,NridgHt,VinylSd,VinylSd,325300
+21,IDOTRR,Wd Sdng,Wd Sdng,139400
+22,CollgCr,VinylSd,VinylSd,230000
+23,MeadowV,CemntBd,CmentBd,129900
+24,Sawyer,Plywood,Plywood,154000
+25,NridgHt,VinylSd,VinylSd,256300
+26,NAmes,Wd Sdng,Wd Sdng,134800
+27,NridgHt,VinylSd,VinylSd,306000
+28,NAmes,MetalSd,MetalSd,207500
+29,BrkSide,MetalSd,MetalSd,68500
+30,IDOTRR,BrkFace,BrkFace,40000
+31,Sawyer,HdBoard,HdBoard,149350
+32,CollgCr,VinylSd,VinylSd,179900
+33,NAmes,BrkFace,BrkFace,165500
+34,NridgHt,MetalSd,MetalSd,277500
+35,NridgHt,VinylSd,VinylSd,309000
+36,CollgCr,VinylSd,VinylSd,145000
+37,NAmes,Wd Sdng,Wd Sdng,153000
+38,NAmes,VinylSd,VinylSd,109000
+39,Edwards,AsbShng,Plywood,82000
+40,NAmes,Wd Sdng,Wd Sdng,160000
+41,Timber,VinylSd,VinylSd,170000
+42,SawyerW,HdBoard,HdBoard,144000
+43,CollgCr,VinylSd,VinylSd,130250
+44,NAmes,BrkFace,Wd Sdng,141000
+45,NridgHt,MetalSd,MetalSd,319900
+46,Mitchel,VinylSd,VinylSd,239686
+47,Somerst,VinylSd,VinylSd,249700
+48,OldTown,MetalSd,MetalSd,113000
+49,Sawyer,HdBoard,HdBoard,127000
+50,Gilbert,VinylSd,VinylSd,177000
+51,BrkSide,Wd Sdng,Wd Sdng,114500
+52,IDOTRR,Wd Sdng,Wd Sdng,110000
+53,Veenker,WdShing,Wd Shng,385000
+54,NAmes,MetalSd,MetalSd,130000
+55,NAmes,HdBoard,Plywood,180500
+56,Somerst,MetalSd,MetalSd,172500
+57,CollgCr,VinylSd,VinylSd,196500
+58,StoneBr,VinylSd,VinylSd,438780
+59,CollgCr,HdBoard,HdBoard,124900
+60,SawyerW,VinylSd,VinylSd,158000
+61,IDOTRR,MetalSd,MetalSd,101000
+62,NridgHt,VinylSd,VinylSd,202500
+63,OldTown,Stucco,Stucco,140000
+64,CollgCr,VinylSd,VinylSd,219500
+65,NridgHt,VinylSd,VinylSd,317000
+66,NAmes,Plywood,Plywood,180000
+67,CollgCr,VinylSd,VinylSd,226000
+68,OldTown,MetalSd,MetalSd,80000
+69,ClearCr,BrkFace,AsbShng,225000
+70,NAmes,Plywood,Plywood,244000
+71,Mitchel,HdBoard,Plywood,129500
+72,Gilbert,VinylSd,VinylSd,185000
+73,NAmes,Wd Sdng,Wd Sdng,144900
+74,OldTown,VinylSd,VinylSd,107400
+75,MeadowV,CemntBd,CmentBd,91000
+76,NAmes,VinylSd,VinylSd,135750
+77,BrkSide,Wd Sdng,Wd Sdng,127000
+78,Sawyer,HdBoard,HdBoard,136500
+79,OldTown,Wd Sdng,Wd Sdng,110000
+80,NAmes,VinylSd,VinylSd,193500
+81,Mitchel,VinylSd,VinylSd,153500
+82,Somerst,VinylSd,VinylSd,245000
+83,NAmes,MetalSd,MetalSd,126500
+84,Gilbert,HdBoard,HdBoard,168500
+85,NoRidge,HdBoard,HdBoard,260000
+86,Gilbert,VinylSd,VinylSd,174000
+87,Somerst,VinylSd,VinylSd,164500
+88,IDOTRR,Plywood,Plywood,85000
+89,CollgCr,VinylSd,VinylSd,123600
+90,NAmes,BrkFace,Wd Sdng,109900
+91,NAmes,HdBoard,HdBoard,98600
+92,Crawfor,Wd Sdng,Wd Sdng,163500
+93,OldTown,MetalSd,MetalSd,133900
+94,CollgCr,VinylSd,VinylSd,204750
+95,Gilbert,VinylSd,VinylSd,185000
+96,CollgCr,VinylSd,VinylSd,214000
+97,Edwards,HdBoard,HdBoard,94750
+98,Edwards,Wd Sdng,Wd Sdng,83000
+99,NAmes,Plywood,Plywood,128950
+100,NWAmes,Plywood,Plywood,205000
+101,SawyerW,HdBoard,HdBoard,178000
+102,SawyerW,HdBoard,HdBoard,118964
+103,CollgCr,VinylSd,VinylSd,198900
+104,IDOTRR,Stucco,Stucco,169500
+105,Somerst,VinylSd,VinylSd,250000
+106,OldTown,VinylSd,VinylSd,100000
+107,OldTown,VinylSd,VinylSd,115000
+108,IDOTRR,CemntBd,CmentBd,115000
+109,NWAmes,Plywood,Plywood,190000
+110,Edwards,Wd Sdng,Wd Sdng,136900
+111,Gilbert,VinylSd,VinylSd,180000
+112,CollgCr,VinylSd,VinylSd,383970
+113,Crawfor,Wd Sdng,Wd Sdng,217000
+114,Crawfor,Wd Sdng,Wd Sdng,259500
+115,Somerst,MetalSd,MetalSd,176000
+116,Sawyer,Wd Sdng,Wd Sdng,139000
+117,Edwards,VinylSd,VinylSd,155000
+118,SawyerW,Plywood,Plywood,320000
+119,CollgCr,VinylSd,VinylSd,163990
+120,ClearCr,Plywood,Plywood,180000
+121,IDOTRR,AsbShng,AsbShng,100000
+122,NAmes,MetalSd,MetalSd,136000
+123,SawyerW,Plywood,Plywood,153900
+124,NWAmes,HdBoard,HdBoard,181000
+125,IDOTRR,Wd Sdng,Wd Sdng,84500
+126,NPkVill,Plywood,Plywood,128000
+127,OldTown,WdShing,Wd Sdng,87000
+128,NAmes,VinylSd,VinylSd,155000
+129,NAmes,Plywood,Plywood,150000
+130,NAmes,MetalSd,MetalSd,226000
+131,Gilbert,VinylSd,VinylSd,244000
+132,NAmes,MetalSd,MetalSd,150750
+133,Timber,VinylSd,VinylSd,220000
+134,Sawyer,Plywood,Plywood,180000
+135,NWAmes,Plywood,Plywood,174000
+136,NAmes,MetalSd,MetalSd,143000
+137,Mitchel,VinylSd,VinylSd,171000
+138,CollgCr,VinylSd,VinylSd,230000
+139,CollgCr,VinylSd,VinylSd,231500
+140,NAmes,HdBoard,HdBoard,115000
+141,CollgCr,VinylSd,VinylSd,260000
+142,NAmes,BrkFace,Wd Sdng,166000
+143,CollgCr,VinylSd,VinylSd,204000
+144,Sawyer,HdBoard,HdBoard,125000
+145,Edwards,VinylSd,VinylSd,130000
+146,BrkSide,Wd Sdng,Wd Sdng,105000
+147,Gilbert,VinylSd,VinylSd,222500
+148,SawyerW,VinylSd,VinylSd,141000
+149,BrkSide,MetalSd,MetalSd,115000
+150,CollgCr,HdBoard,HdBoard,122000
+151,NridgHt,VinylSd,VinylSd,372402
+152,NWAmes,HdBoard,HdBoard,190000
+153,ClearCr,BrkFace,Plywood,235000
+154,OldTown,Wd Sdng,Wd Sdng,125000
+155,Edwards,Wd Sdng,Wd Sdng,79000
+156,NAmes,Wd Sdng,Wd Sdng,109500
+157,Timber,VinylSd,VinylSd,269500
+158,Somerst,VinylSd,VinylSd,254900
+159,Gilbert,VinylSd,VinylSd,320000
+160,Veenker,Plywood,Plywood,162500
+161,NridgHt,VinylSd,VinylSd,412500
+162,NridgHt,VinylSd,VinylSd,220000
+163,OldTown,MetalSd,MetalSd,103200
+164,OldTown,MetalSd,MetalSd,152000
+165,Edwards,Wd Sdng,Wd Sdng,127500
+166,ClearCr,Wd Sdng,Wd Sdng,190000
+167,NridgHt,VinylSd,VinylSd,325624
+168,Gilbert,VinylSd,VinylSd,183500
+169,Timber,Plywood,Plywood,228000
+170,OldTown,MetalSd,MetalSd,128500
+171,NAmes,BrkFace,Plywood,215000
+172,StoneBr,HdBoard,HdBoard,239000
+173,NAmes,WdShing,Wd Shng,163000
+174,Timber,VinylSd,Plywood,184000
+175,Edwards,WdShing,Wd Shng,243000
+176,ClearCr,Plywood,Plywood,211000
+177,Sawyer,MetalSd,MetalSd,172500
+178,StoneBr,VinylSd,VinylSd,501837
+179,OldTown,Wd Sdng,Wd Sdng,100000
+180,Somerst,MetalSd,MetalSd,177000
+181,Crawfor,Stucco,Stucco,200100
+182,Edwards,Wd Sdng,Wd Sdng,120000
+183,OldTown,VinylSd,VinylSd,200000
+184,BrkSide,AsbShng,Plywood,127000
+185,OldTown,Wd Sdng,Wd Sdng,475000
+186,Mitchel,HdBoard,HdBoard,173000
+187,OldTown,HdBoard,HdBoard,135000
+188,SawyerW,Plywood,Plywood,153337
+189,StoneBr,CemntBd,CmentBd,286000
+190,Crawfor,BrkFace,BrkFace,315000
+191,NAmes,HdBoard,HdBoard,184000
+192,CollgCr,VinylSd,VinylSd,192000
+193,Edwards,VinylSd,VinylSd,130000
+194,CollgCr,HdBoard,HdBoard,127000
+195,NPkVill,Plywood,Brk Cmn,148500
+196,Somerst,CemntBd,CmentBd,311872
+197,NAmes,Stucco,Stucco,235000
+198,OldTown,Wd Sdng,Wd Sdng,104000
+199,NridgHt,VinylSd,VinylSd,274900
+200,Edwards,VinylSd,VinylSd,140000
+201,Mitchel,Plywood,Plywood,171500
+202,OldTown,MetalSd,MetalSd,112000
+203,CollgCr,VinylSd,VinylSd,149000
+204,OldTown,AsbShng,AsbShng,110000
+205,Gilbert,HdBoard,HdBoard,180500
+206,Sawyer,HdBoard,HdBoard,143900
+207,NAmes,Wd Sdng,Wd Sdng,141000
+208,SawyerW,Plywood,Plywood,277000
+209,NAmes,HdBoard,HdBoard,145000
+210,Edwards,Stucco,Stucco,98000
+211,Edwards,VinylSd,VinylSd,186000
+212,Somerst,VinylSd,VinylSd,252678
+213,CollgCr,VinylSd,VinylSd,156000
+214,CollgCr,HdBoard,HdBoard,161750
+215,NAmes,HdBoard,HdBoard,134450
+216,CollgCr,VinylSd,VinylSd,210000
+217,OldTown,MetalSd,MetalSd,107000
+218,Crawfor,VinylSd,VinylSd,311500
+219,Blmngtn,VinylSd,VinylSd,167240
+220,CollgCr,VinylSd,VinylSd,204900
+221,Gilbert,VinylSd,VinylSd,200000
+222,NWAmes,VinylSd,VinylSd,179900
+223,NAmes,HdBoard,HdBoard,97000
+224,NridgHt,VinylSd,VinylSd,386250
+225,BrDale,HdBoard,HdBoard,112000
+226,NoRidge,VinylSd,VinylSd,290000
+227,BrDale,HdBoard,HdBoard,106000
+228,Sawyer,HdBoard,HdBoard,125000
+229,Blmngtn,VinylSd,VinylSd,192500
+230,NAmes,MetalSd,MetalSd,148000
+231,NoRidge,VinylSd,VinylSd,403000
+232,BrDale,HdBoard,HdBoard,94500
+233,CollgCr,HdBoard,HdBoard,128200
+234,Gilbert,VinylSd,VinylSd,216500
+235,BrDale,HdBoard,HdBoard,89500
+236,CollgCr,VinylSd,VinylSd,185500
+237,SawyerW,HdBoard,HdBoard,194500
+238,NridgHt,VinylSd,VinylSd,318000
+239,Edwards,VinylSd,VinylSd,113000
+240,Somerst,VinylSd,VinylSd,262500
+241,OldTown,VinylSd,VinylSd,110500
+242,OldTown,Wd Sdng,Wd Sdng,79000
+243,SawyerW,Plywood,Plywood,120000
+244,SawyerW,VinylSd,VinylSd,205000
+245,NWAmes,Wd Sdng,Wd Sdng,241500
+246,OldTown,AsbShng,AsbShng,137000
+247,NAmes,Wd Sdng,BrkFace,140000
+248,CollgCr,VinylSd,VinylSd,180000
+249,ClearCr,Wd Sdng,HdBoard,277000
+250,BrkSide,Wd Sdng,Plywood,76500
+251,Crawfor,VinylSd,VinylSd,235000
+252,SawyerW,VinylSd,VinylSd,173000
+253,NAmes,HdBoard,HdBoard,158000
+254,NAmes,MetalSd,MetalSd,145000
+255,Gilbert,VinylSd,VinylSd,230000
+256,Somerst,VinylSd,VinylSd,207500
+257,CollgCr,VinylSd,VinylSd,220000
+258,CollgCr,VinylSd,VinylSd,231500
+259,OldTown,BrkFace,BrkFace,97000
+260,NAmes,Wd Sdng,Wd Sdng,176000
+261,CollgCr,CemntBd,CmentBd,276000
+262,Sawyer,HdBoard,Plywood,151000
+263,OldTown,Wd Sdng,Wd Sdng,130000
+264,OldTown,Wd Sdng,Wd Sdng,73000
+265,NWAmes,MetalSd,MetalSd,175500
+266,Gilbert,VinylSd,VinylSd,185000
+267,SWISU,Wd Sdng,Wd Sdng,179500
+268,IDOTRR,VinylSd,VinylSd,120500
+269,Edwards,HdBoard,HdBoard,148000
+270,Somerst,VinylSd,VinylSd,266000
+271,ClearCr,Plywood,Plywood,241500
+272,NoRidge,VinylSd,VinylSd,290000
+273,NAmes,Wd Sdng,Wd Sdng,139000
+274,Mitchel,HdBoard,ImStucc,124500
+275,BrkSide,Wd Sdng,Wd Sdng,205000
+276,Mitchel,VinylSd,VinylSd,201000
+277,Gilbert,VinylSd,VinylSd,141000
+278,NridgHt,CemntBd,CmentBd,415298
+279,ClearCr,Plywood,Plywood,192000
+280,SawyerW,Plywood,Plywood,228500
+281,Somerst,VinylSd,VinylSd,185000
+282,NridgHt,VinylSd,VinylSd,207500
+283,Somerst,VinylSd,VinylSd,244600
+284,SawyerW,Plywood,ImStucc,179200
+285,Somerst,MetalSd,MetalSd,164700
+286,NAmes,Wd Sdng,Wd Sdng,159000
+287,NAmes,HdBoard,HdBoard,88000
+288,Sawyer,MetalSd,MetalSd,122000
+289,BrkSide,Wd Sdng,Wd Sdng,153575
+290,CollgCr,VinylSd,VinylSd,233230
+291,SWISU,VinylSd,VinylSd,135900
+292,Edwards,Wd Sdng,Wd Sdng,131000
+293,NWAmes,Plywood,Plywood,235000
+294,NAmes,HdBoard,HdBoard,167000
+295,Mitchel,HdBoard,HdBoard,142500
+296,IDOTRR,Wd Sdng,Wd Sdng,152000
+297,Somerst,VinylSd,VinylSd,239000
+298,NWAmes,HdBoard,AsphShn,175000
+299,Crawfor,HdBoard,HdBoard,158500
+300,Crawfor,MetalSd,MetalSd,157000
+301,CollgCr,VinylSd,VinylSd,267000
+302,CollgCr,VinylSd,VinylSd,205000
+303,CollgCr,VinylSd,VinylSd,149900
+304,OldTown,CemntBd,CmentBd,295000
+305,CollgCr,CemntBd,CmentBd,305900
+306,SawyerW,HdBoard,Plywood,225000
+307,IDOTRR,MetalSd,MetalSd,89500
+308,Edwards,VinylSd,VinylSd,82500
+309,NridgHt,VinylSd,VinylSd,360000
+310,Gilbert,HdBoard,HdBoard,165600
+311,NAmes,VinylSd,VinylSd,132000
+312,OldTown,MetalSd,MetalSd,119900
+313,Timber,BrkFace,BrkFace,375000
+314,OldTown,Wd Sdng,Wd Sdng,178000
+315,Gilbert,VinylSd,VinylSd,188500
+316,NWAmes,CemntBd,CmentBd,260000
+317,Somerst,VinylSd,VinylSd,270000
+318,NoRidge,HdBoard,HdBoard,260000
+319,NWAmes,Plywood,Plywood,187500
+320,NridgHt,VinylSd,VinylSd,342643
+321,NridgHt,VinylSd,VinylSd,354000
+322,SawyerW,Plywood,Plywood,301000
+323,OldTown,VinylSd,VinylSd,126175
+324,NAmes,Wd Sdng,Wd Sdng,242000
+325,IDOTRR,MetalSd,MetalSd,87000
+326,Veenker,BrkFace,BrkFace,324000
+327,NAmes,Wd Sdng,Wd Sdng,145250
+328,BrkSide,Wd Sdng,Wd Shng,214500
+329,IDOTRR,Wd Sdng,Wd Shng,78000
+330,NAmes,HdBoard,HdBoard,119000
+331,NAmes,Wd Sdng,Wd Sdng,139000
+332,NridgHt,VinylSd,VinylSd,284000
+333,NridgHt,VinylSd,VinylSd,207000
+334,Gilbert,VinylSd,VinylSd,192000
+335,Timber,Plywood,Plywood,228950
+336,StoneBr,VinylSd,VinylSd,377426
+337,CollgCr,VinylSd,VinylSd,214000
+338,NWAmes,Wd Sdng,Wd Sdng,202500
+339,NAmes,Wd Sdng,Wd Sdng,155000
+340,Timber,VinylSd,VinylSd,202900
+341,SawyerW,Wd Sdng,AsbShng,82000
+342,NAmes,Stucco,Stucco,87500
+343,NridgHt,MetalSd,MetalSd,266000
+344,MeadowV,CemntBd,CmentBd,85000
+345,BrkSide,MetalSd,MetalSd,140200
+346,NAmes,MetalSd,MetalSd,151500
+347,NAmes,Wd Sdng,Wd Sdng,157500
+348,NridgHt,VinylSd,Wd Shng,154000
+349,NridgHt,CemntBd,CmentBd,437154
+350,NridgHt,MetalSd,MetalSd,318061
+351,ClearCr,Wd Sdng,Wd Sdng,190000
+352,Edwards,VinylSd,VinylSd,95000
+353,OldTown,VinylSd,VinylSd,105900
+354,SWISU,Wd Sdng,MetalSd,140000
+355,CollgCr,VinylSd,VinylSd,177500
+356,Gilbert,HdBoard,HdBoard,173000
+357,MeadowV,CemntBd,CmentBd,134000
+358,ClearCr,Wd Sdng,ImStucc,130000
+359,NoRidge,VinylSd,VinylSd,280000
+360,Mitchel,VinylSd,VinylSd,156000
+361,BrkSide,MetalSd,MetalSd,145000
+362,Edwards,HdBoard,HdBoard,198500
+363,BrDale,HdBoard,HdBoard,118000
+364,NWAmes,HdBoard,HdBoard,190000
+365,IDOTRR,VinylSd,VinylSd,147000
+366,NAmes,Plywood,Plywood,159000
+367,NAmes,Plywood,Plywood,165000
+368,NAmes,HdBoard,HdBoard,132000
+369,NAmes,Wd Sdng,Wd Sdng,162000
+370,Gilbert,VinylSd,VinylSd,172400
+371,ClearCr,WdShing,Plywood,134432
+372,SawyerW,Plywood,Plywood,125000
+373,NAmes,MetalSd,MetalSd,123000
+374,CollgCr,VinylSd,VinylSd,219500
+375,Edwards,Wd Sdng,Wd Sdng,61000
+376,CollgCr,VinylSd,VinylSd,148000
+377,Somerst,CemntBd,CmentBd,340000
+378,StoneBr,VinylSd,VinylSd,394432
+379,Gilbert,VinylSd,VinylSd,179000
+380,SWISU,BrkFace,Wd Sdng,127000
+381,Somerst,VinylSd,VinylSd,187750
+382,CollgCr,VinylSd,VinylSd,213500
+383,SawyerW,Wd Sdng,Wd Sdng,76000
+384,ClearCr,HdBoard,HdBoard,240000
+385,Blmngtn,VinylSd,VinylSd,192000
+386,Edwards,Wd Sdng,VinylSd,81000
+387,Edwards,MetalSd,MetalSd,125000
+388,CollgCr,VinylSd,VinylSd,191000
+389,NridgHt,VinylSd,VinylSd,426000
+390,Edwards,MetalSd,MetalSd,119000
+391,Mitchel,VinylSd,VinylSd,215000
+392,NAmes,MetalSd,MetalSd,106500
+393,BrkSide,WdShing,Wd Shng,100000
+394,OldTown,MetalSd,MetalSd,109000
+395,Edwards,Wd Sdng,Wd Sdng,129000
+396,CollgCr,MetalSd,MetalSd,123000
+397,NAmes,VinylSd,VinylSd,169500
+398,IDOTRR,MetalSd,MetalSd,67000
+399,Somerst,CemntBd,CmentBd,241000
+400,Veenker,BrkFace,BrkFace,245500
+401,CollgCr,VinylSd,VinylSd,164990
+402,Sawyer,Wd Sdng,Wd Sdng,108000
+403,NoRidge,VinylSd,VinylSd,258000
+404,Gilbert,MetalSd,MetalSd,168000
+405,Sawyer,Plywood,Plywood,150000
+406,SWISU,MetalSd,MetalSd,115000
+407,Crawfor,Wd Sdng,Plywood,177000
+408,NridgHt,VinylSd,VinylSd,280000
+409,Somerst,VinylSd,VinylSd,339750
+410,Edwards,BrkComm,Brk Cmn,60000
+411,Gilbert,Wd Sdng,Wd Sdng,145000
+412,Somerst,MetalSd,MetalSd,222000
+413,OldTown,WdShing,Wd Shng,115000
+414,SawyerW,VinylSd,VinylSd,228000
+415,Gilbert,VinylSd,VinylSd,181134
+416,Sawyer,HdBoard,HdBoard,149500
+417,Crawfor,Wd Sdng,Stucco,239000
+418,Edwards,MetalSd,MetalSd,126000
+419,NAmes,VinylSd,VinylSd,142000
+420,Mitchel,VinylSd,VinylSd,206300
+421,NWAmes,CemntBd,CmentBd,215000
+422,Mitchel,HdBoard,HdBoard,113000
+423,NoRidge,VinylSd,VinylSd,315000
+424,NAmes,Wd Sdng,Wd Sdng,139000
+425,OldTown,HdBoard,HdBoard,135000
+426,SawyerW,Wd Sdng,Wd Sdng,275000
+427,NAmes,MetalSd,MetalSd,109008
+428,CollgCr,VinylSd,VinylSd,195400
+429,Timber,HdBoard,HdBoard,175000
+430,BrDale,HdBoard,HdBoard,85400
+431,OldTown,MetalSd,MetalSd,79900
+432,BrDale,HdBoard,HdBoard,122500
+433,Gilbert,VinylSd,VinylSd,181000
+434,MeadowV,CemntBd,CmentBd,81000
+435,CollgCr,VinylSd,VinylSd,212000
+436,OldTown,Stucco,Stucco,116000
+437,BrkSide,Wd Sdng,Wd Sdng,119000
+438,Crawfor,WdShing,Stucco,90350
+439,Edwards,Wd Sdng,Wd Sdng,110000
+440,NridgHt,VinylSd,VinylSd,555000
+441,Edwards,VinylSd,VinylSd,118000
+442,BrkSide,MetalSd,MetalSd,162900
+443,Blmngtn,WdShing,Wd Shng,172500
+444,CollgCr,VinylSd,VinylSd,210000
+445,Edwards,Wd Sdng,Wd Sdng,127500
+446,NAmes,BrkFace,Plywood,190000
+447,Gilbert,VinylSd,VinylSd,199900
+448,IDOTRR,MetalSd,MetalSd,119500
+449,OldTown,MetalSd,MetalSd,120000
+450,OldTown,Wd Sdng,Wd Sdng,110000
+451,ClearCr,Plywood,Plywood,280000
+452,Timber,VinylSd,VinylSd,204000
+453,Somerst,VinylSd,VinylSd,210000
+454,Mitchel,Plywood,Plywood,188000
+455,NWAmes,HdBoard,HdBoard,175500
+456,OldTown,AsbShng,AsbShng,98000
+457,ClearCr,Plywood,Plywood,256000
+458,OldTown,Stucco,Wd Shng,161000
+459,BrkSide,MetalSd,MetalSd,110000
+460,Somerst,VinylSd,VinylSd,263435
+461,SWISU,Wd Sdng,Wd Sdng,155000
+462,Sawyer,MetalSd,MetalSd,62383
+463,Crawfor,Stucco,Stucco,188700
+464,CollgCr,HdBoard,HdBoard,124000
+465,Blmngtn,VinylSd,VinylSd,178740
+466,NAmes,Plywood,Plywood,167000
+467,NAmes,MetalSd,MetalSd,146500
+468,NridgHt,VinylSd,VinylSd,250000
+469,SawyerW,HdBoard,HdBoard,187000
+470,StoneBr,HdBoard,HdBoard,212000
+471,NWAmes,WdShing,Plywood,190000
+472,Edwards,VinylSd,VinylSd,148000
+473,NridgHt,VinylSd,VinylSd,440000
+474,StoneBr,CemntBd,CmentBd,251000
+475,Sawyer,HdBoard,HdBoard,132500
+476,CollgCr,VinylSd,VinylSd,208900
+477,NridgHt,VinylSd,VinylSd,380000
+478,CollgCr,VinylSd,VinylSd,297000
+479,OldTown,Stucco,Stucco,89471
+480,NridgHt,VinylSd,VinylSd,326000
+481,NridgHt,VinylSd,VinylSd,374000
+482,OldTown,Stucco,Stucco,155000
+483,Mitchel,VinylSd,VinylSd,164000
+484,Sawyer,HdBoard,Plywood,132500
+485,NAmes,MetalSd,MetalSd,147000
+486,NAmes,MetalSd,MetalSd,156000
+487,NWAmes,Plywood,Plywood,175000
+488,OldTown,Wd Sdng,Wd Sdng,160000
+489,MeadowV,CemntBd,CmentBd,86000
+490,MeadowV,CemntBd,CmentBd,115000
+491,NAmes,Wd Sdng,Wd Sdng,133000
+492,Gilbert,VinylSd,VinylSd,172785
+493,NAmes,BrkFace,Wd Sdng,155000
+494,OldTown,MetalSd,MetalSd,91300
+495,IDOTRR,Wd Sdng,Wd Sdng,34900
+496,NoRidge,BrkFace,BrkFace,430000
+497,BrkSide,Wd Sdng,Wd Sdng,184000
+498,Sawyer,HdBoard,HdBoard,130000
+499,NAmes,MetalSd,MetalSd,120000
+500,BrDale,HdBoard,HdBoard,113000
+501,Somerst,VinylSd,VinylSd,226700
+502,Edwards,MetalSd,MetalSd,140000
+503,Crawfor,BrkFace,Wd Sdng,289000
+504,NPkVill,Plywood,Brk Cmn,147000
+505,OldTown,Wd Sdng,Wd Sdng,124500
+506,SawyerW,VinylSd,VinylSd,215000
+507,Somerst,VinylSd,VinylSd,208300
+508,OldTown,MetalSd,MetalSd,161000
+509,NAmes,MetalSd,MetalSd,124500
+510,NAmes,Wd Sdng,Wd Sdng,164900
+511,NridgHt,VinylSd,VinylSd,202665
+512,NAmes,VinylSd,VinylSd,129900
+513,Mitchel,VinylSd,VinylSd,134000
+514,Crawfor,Wd Sdng,Wd Sdng,96500
+515,NridgHt,CemntBd,CmentBd,402861
+516,NWAmes,HdBoard,HdBoard,158000
+517,NoRidge,VinylSd,VinylSd,265000
+518,CollgCr,VinylSd,VinylSd,211000
+519,Crawfor,MetalSd,MetalSd,234000
+520,OldTown,MetalSd,MetalSd,106250
+521,NAmes,VinylSd,VinylSd,150000
+522,BrkSide,CemntBd,CmentBd,159000
+523,Edwards,CemntBd,CmentBd,184750
+524,NoRidge,VinylSd,VinylSd,315750
+525,Somerst,VinylSd,VinylSd,176000
+526,NAmes,Wd Sdng,Wd Sdng,132000
+527,NridgHt,VinylSd,VinylSd,446261
+528,Edwards,Wd Sdng,Wd Sdng,86000
+529,Crawfor,Wd Sdng,Stone,200624
+530,Timber,HdBoard,HdBoard,175000
+531,BrkSide,Wd Sdng,Wd Sdng,128000
+532,NAmes,VinylSd,VinylSd,107500
+533,BrkSide,VinylSd,VinylSd,39300
+534,Gilbert,VinylSd,VinylSd,178000
+535,Edwards,MetalSd,MetalSd,107500
+536,CollgCr,VinylSd,VinylSd,188000
+537,NAmes,MetalSd,MetalSd,111250
+538,Sawyer,Plywood,Plywood,158000
+539,CollgCr,VinylSd,VinylSd,272000
+540,Timber,VinylSd,VinylSd,315000
+541,NoRidge,VinylSd,VinylSd,248000
+542,NWAmes,VinylSd,VinylSd,213250
+543,NAmes,MetalSd,MetalSd,133000
+544,Gilbert,VinylSd,VinylSd,179665
+545,NWAmes,HdBoard,HdBoard,229000
+546,BrkSide,BrkFace,Wd Sdng,210000
+547,Mitchel,VinylSd,VinylSd,129500
+548,OldTown,MetalSd,MetalSd,125000
+549,Somerst,VinylSd,VinylSd,263000
+550,NPkVill,Plywood,Plywood,140000
+551,OldTown,BrkFace,BrkFace,112500
+552,NridgHt,VinylSd,VinylSd,255500
+553,Edwards,VinylSd,VinylSd,108000
+554,NridgHt,VinylSd,VinylSd,284000
+555,BrkSide,MetalSd,MetalSd,113000
+556,NAmes,Wd Sdng,Wd Sdng,141000
+557,IDOTRR,MetalSd,MetalSd,108000
+558,Gilbert,HdBoard,HdBoard,175000
+559,Blmngtn,VinylSd,VinylSd,234000
+560,Sawyer,Wd Sdng,Wd Sdng,121500
+561,Mitchel,HdBoard,HdBoard,170000
+562,Edwards,WdShing,Wd Shng,108000
+563,Edwards,Wd Sdng,Wd Sdng,185000
+564,NoRidge,HdBoard,HdBoard,268000
+565,SWISU,Wd Sdng,Wd Sdng,128000
+566,StoneBr,VinylSd,VinylSd,325000
+567,NridgHt,VinylSd,VinylSd,214000
+568,SawyerW,Wd Sdng,Wd Sdng,316600
+569,NAmes,MetalSd,MetalSd,135960
+570,NAmes,HdBoard,HdBoard,142600
+571,NAmes,WdShing,Wd Shng,120000
+572,Timber,VinylSd,VinylSd,224500
+573,Gilbert,VinylSd,VinylSd,170000
+574,NAmes,MetalSd,AsphShn,139000
+575,NAmes,MetalSd,MetalSd,118500
+576,SWISU,Wd Sdng,Wd Sdng,145000
+577,Sawyer,VinylSd,VinylSd,164500
+578,Somerst,VinylSd,VinylSd,146000
+579,OldTown,MetalSd,MetalSd,131500
+580,NAmes,Wd Sdng,Wd Sdng,181900
+581,NridgHt,VinylSd,VinylSd,253293
+582,Edwards,HdBoard,HdBoard,118500
+583,OldTown,Wd Sdng,Wd Sdng,325000
+584,BrkSide,AsbShng,AsbShng,133000
+585,Timber,VinylSd,VinylSd,369900
+586,BrkSide,Stucco,Wd Shng,130000
+587,Sawyer,HdBoard,HdBoard,137000
+588,ClearCr,Wd Sdng,Wd Sdng,143000
+589,BrkSide,VinylSd,VinylSd,79500
+590,CollgCr,VinylSd,VinylSd,185900
+591,NridgHt,CemntBd,CmentBd,451950
+592,Mitchel,HdBoard,HdBoard,138000
+593,CollgCr,VinylSd,VinylSd,140000
+594,CollgCr,HdBoard,HdBoard,110000
+595,StoneBr,VinylSd,Other,319000
+596,OldTown,VinylSd,VinylSd,114504
+597,Blmngtn,VinylSd,VinylSd,194201
+598,Crawfor,Plywood,Plywood,217500
+599,Blueste,MetalSd,MetalSd,151000
+600,NridgHt,VinylSd,VinylSd,275000
+601,IDOTRR,Wd Sdng,Wd Sdng,141000
+602,SawyerW,HdBoard,HdBoard,220000
+603,Somerst,MetalSd,MetalSd,151000
+604,CollgCr,VinylSd,VinylSd,221000
+605,NAmes,HdBoard,HdBoard,205000
+606,CollgCr,VinylSd,VinylSd,152000
+607,Edwards,MetalSd,MetalSd,225000
+608,Crawfor,BrkFace,Wd Sdng,359100
+609,Sawyer,VinylSd,VinylSd,118500
+610,CollgCr,VinylSd,VinylSd,313000
+611,NWAmes,HdBoard,HdBoard,148000
+612,CollgCr,VinylSd,VinylSd,261500
+613,Mitchel,VinylSd,VinylSd,147000
+614,MeadowV,CemntBd,CmentBd,75500
+615,NAmes,MetalSd,MetalSd,137500
+616,Gilbert,VinylSd,VinylSd,183200
+617,NAmes,MetalSd,MetalSd,105500
+618,NridgHt,CemntBd,CmentBd,314813
+619,Timber,VinylSd,VinylSd,305000
+620,Edwards,Stucco,Stucco,67000
+621,NWAmes,HdBoard,HdBoard,240000
+622,Sawyer,Plywood,Plywood,135000
+623,Somerst,MetalSd,MetalSd,168500
+624,NWAmes,VinylSd,VinylSd,165150
+625,NAmes,Wd Sdng,Wd Sdng,160000
+626,NAmes,Wd Sdng,Wd Sdng,139900
+627,NAmes,AsbShng,AsbShng,153000
+628,NAmes,Plywood,Plywood,135000
+629,NAmes,Plywood,Wd Sdng,168500
+630,OldTown,VinylSd,VinylSd,124000
+631,NridgHt,VinylSd,VinylSd,209500
+632,NWAmes,Plywood,Plywood,82500
+633,NAmes,Wd Sdng,Wd Sdng,139400
+634,OldTown,Plywood,Plywood,144000
+635,SWISU,VinylSd,VinylSd,200000
+636,BrkSide,AsbShng,AsbShng,60000
+637,OldTown,Wd Sdng,Wd Sdng,93000
+638,Edwards,MetalSd,Wd Sdng,85000
+639,Blmngtn,VinylSd,VinylSd,264561
+640,NridgHt,MetalSd,MetalSd,274000
+641,Somerst,VinylSd,VinylSd,226000
+642,NAmes,Plywood,Wd Sdng,345000
+643,NWAmes,WdShing,HdBoard,152000
+644,Somerst,CemntBd,CmentBd,370878
+645,NAmes,Plywood,Plywood,143250
+646,NAmes,MetalSd,MetalSd,98300
+647,Edwards,Wd Sdng,Wd Sdng,155000
+648,NAmes,MetalSd,MetalSd,155000
+649,MeadowV,CemntBd,CmentBd,84500
+650,Somerst,CemntBd,CmentBd,205950
+651,Edwards,MetalSd,MetalSd,108000
+652,CollgCr,VinylSd,VinylSd,191000
+653,IDOTRR,MetalSd,MetalSd,135000
+654,NoRidge,MetalSd,MetalSd,350000
+655,BrDale,HdBoard,ImStucc,88000
+656,NAmes,HdBoard,HdBoard,145500
+657,Crawfor,Stucco,Wd Shng,149000
+658,NAmes,VinylSd,VinylSd,97500
+659,Edwards,MetalSd,MetalSd,167000
+660,NWAmes,Plywood,Plywood,197900
+661,NoRidge,VinylSd,VinylSd,402000
+662,NAmes,Wd Sdng,Wd Sdng,110000
+663,Edwards,Plywood,Plywood,137500
+664,Somerst,VinylSd,VinylSd,423000
+665,Gilbert,VinylSd,VinylSd,230500
+666,NAmes,Plywood,Plywood,129000
+667,SawyerW,HdBoard,HdBoard,193500
+668,Sawyer,CemntBd,Wd Sdng,168000
+669,Crawfor,MetalSd,MetalSd,137500
+670,CollgCr,VinylSd,VinylSd,173500
+671,Edwards,Wd Sdng,Wd Sdng,103600
+672,Veenker,Plywood,Plywood,165000
+673,Crawfor,CemntBd,CmentBd,257500
+674,NAmes,HdBoard,HdBoard,140000
+675,NPkVill,Plywood,Brk Cmn,148500
+676,OldTown,AsbShng,Stucco,87000
+677,OldTown,VinylSd,VinylSd,109500
+678,StoneBr,VinylSd,VinylSd,372500
+679,Sawyer,Wd Sdng,Wd Sdng,128500
+680,SawyerW,Plywood,Plywood,143000
+681,SWISU,VinylSd,Stucco,159434
+682,ClearCr,Wd Sdng,Wd Sdng,173000
+683,CollgCr,VinylSd,VinylSd,285000
+684,NoRidge,VinylSd,VinylSd,221000
+685,StoneBr,HdBoard,HdBoard,207500
+686,Somerst,VinylSd,VinylSd,227875
+687,Somerst,MetalSd,MetalSd,148800
+688,StoneBr,MetalSd,MetalSd,392000
+689,NridgHt,VinylSd,VinylSd,194700
+690,CollgCr,VinylSd,VinylSd,141000
+691,NoRidge,HdBoard,HdBoard,755000
+692,Timber,MetalSd,MetalSd,335000
+693,OldTown,MetalSd,MetalSd,108480
+694,BrkSide,Wd Sdng,Wd Sdng,141500
+695,Timber,HdBoard,HdBoard,176000
+696,BrkSide,Wd Sdng,Wd Shng,89000
+697,Edwards,Wd Sdng,Wd Sdng,123500
+698,Sawyer,MetalSd,MetalSd,138500
+699,Somerst,MetalSd,MetalSd,196000
+700,Timber,VinylSd,VinylSd,312500
+701,NWAmes,HdBoard,HdBoard,140000
+702,StoneBr,VinylSd,VinylSd,361919
+703,OldTown,Wd Sdng,Wd Sdng,140000
+704,CollgCr,VinylSd,VinylSd,213000
+705,IDOTRR,VinylSd,Wd Shng,55000
+706,ClearCr,Plywood,Plywood,302000
+707,NridgHt,MetalSd,MetalSd,254000
+708,Gilbert,VinylSd,VinylSd,179540
+709,Sawyer,HdBoard,HdBoard,109900
+710,BrkSide,VinylSd,VinylSd,52000
+711,IDOTRR,MetalSd,MetalSd,102776
+712,StoneBr,HdBoard,HdBoard,189000
+713,BrkSide,HdBoard,HdBoard,129000
+714,Sawyer,HdBoard,Plywood,130500
+715,NWAmes,HdBoard,HdBoard,165000
+716,OldTown,Wd Sdng,VinylSd,159500
+717,NWAmes,HdBoard,HdBoard,157000
+718,NoRidge,Wd Sdng,ImStucc,341000
+719,CollgCr,HdBoard,Plywood,128500
+720,StoneBr,HdBoard,HdBoard,275000
+721,CollgCr,VinylSd,VinylSd,143000
+722,NAmes,MetalSd,MetalSd,124500
+723,Edwards,MetalSd,MetalSd,135000
+724,Edwards,CemntBd,CmentBd,320000
+725,NAmes,HdBoard,Plywood,120500
+726,Crawfor,Wd Sdng,Plywood,222000
+727,CollgCr,VinylSd,VinylSd,194500
+728,NAmes,VinylSd,VinylSd,110000
+729,IDOTRR,MetalSd,MetalSd,103000
+730,StoneBr,CemntBd,CmentBd,236500
+731,Timber,VinylSd,VinylSd,187500
+732,CollgCr,VinylSd,VinylSd,222500
+733,Sawyer,HdBoard,HdBoard,131400
+734,Sawyer,Plywood,Plywood,108000
+735,OldTown,Wd Sdng,Wd Sdng,163000
+736,NAmes,Stucco,Stone,93500
+737,Gilbert,VinylSd,VinylSd,239900
+738,Edwards,Plywood,Plywood,179000
+739,CollgCr,VinylSd,VinylSd,190000
+740,OldTown,Wd Sdng,Wd Shng,132000
+741,Sawyer,HdBoard,HdBoard,142000
+742,SawyerW,VinylSd,VinylSd,179000
+743,Sawyer,HdBoard,HdBoard,175000
+744,StoneBr,HdBoard,HdBoard,180000
+745,NWAmes,VinylSd,VinylSd,299800
+746,Gilbert,VinylSd,VinylSd,236000
+747,OldTown,Stucco,Stucco,265979
+748,NoRidge,VinylSd,VinylSd,260400
+749,Edwards,WdShing,Wd Shng,98000
+750,OldTown,Wd Sdng,Wd Sdng,96500
+751,Gilbert,VinylSd,VinylSd,162000
+752,CollgCr,VinylSd,VinylSd,217000
+753,NridgHt,VinylSd,VinylSd,275500
+754,NAmes,Plywood,Plywood,156000
+755,Somerst,MetalSd,MetalSd,172500
+756,CollgCr,VinylSd,VinylSd,212000
+757,Sawyer,HdBoard,HdBoard,158900
+758,Somerst,MetalSd,MetalSd,179400
+759,NoRidge,VinylSd,VinylSd,290000
+760,NAmes,Wd Sdng,Wd Sdng,127500
+761,BrkSide,Wd Sdng,Wd Sdng,100000
+762,Somerst,VinylSd,VinylSd,215200
+763,NoRidge,VinylSd,VinylSd,337000
+764,Veenker,BrkFace,BrkFace,270000
+765,Somerst,VinylSd,VinylSd,264132
+766,NWAmes,HdBoard,HdBoard,196500
+767,Mitchel,VinylSd,VinylSd,160000
+768,CollgCr,VinylSd,VinylSd,216837
+769,StoneBr,CemntBd,Wd Shng,538000
+770,Sawyer,Wd Sdng,Wd Sdng,134900
+771,Edwards,Wd Sdng,Wd Sdng,102000
+772,Edwards,Plywood,Plywood,107000
+773,NAmes,Wd Sdng,Wd Sdng,114500
+774,NridgHt,VinylSd,VinylSd,395000
+775,Mitchel,VinylSd,VinylSd,162000
+776,CollgCr,VinylSd,VinylSd,221500
+777,Sawyer,HdBoard,Plywood,142500
+778,SawyerW,Plywood,Plywood,144000
+779,Mitchel,Plywood,ImStucc,135000
+780,Gilbert,HdBoard,HdBoard,176000
+781,SawyerW,VinylSd,VinylSd,175900
+782,CollgCr,VinylSd,VinylSd,187100
+783,Mitchel,Plywood,Plywood,165500
+784,OldTown,Wd Sdng,Wd Shng,128000
+785,NWAmes,BrkFace,Wd Sdng,161500
+786,OldTown,MetalSd,MetalSd,139000
+787,SawyerW,VinylSd,VinylSd,233000
+788,OldTown,MetalSd,MetalSd,107900
+789,ClearCr,HdBoard,HdBoard,187500
+790,Blmngtn,VinylSd,VinylSd,160200
+791,Mitchel,HdBoard,HdBoard,146800
+792,NoRidge,MetalSd,MetalSd,269790
+793,Somerst,CemntBd,CmentBd,225000
+794,Gilbert,MetalSd,MetalSd,194500
+795,SawyerW,HdBoard,HdBoard,171000
+796,Sawyer,Plywood,Plywood,143500
+797,NAmes,VinylSd,VinylSd,110000
+798,NridgHt,VinylSd,VinylSd,485000
+799,SWISU,Wd Sdng,Wd Sdng,175000
+800,ClearCr,VinylSd,VinylSd,200000
+801,IDOTRR,MetalSd,MetalSd,109900
+802,CollgCr,WdShing,Wd Shng,189000
+803,NridgHt,VinylSd,VinylSd,582933
+804,NAmes,Wd Sdng,Wd Sdng,118000
+805,Somerst,VinylSd,VinylSd,227680
+806,NAmes,VinylSd,VinylSd,135500
+807,BrkSide,Wd Sdng,Wd Sdng,223500
+808,NAmes,VinylSd,VinylSd,159950
+809,OldTown,AsbShng,AsbShng,106000
+810,NWAmes,HdBoard,HdBoard,181000
+811,CollgCr,VinylSd,VinylSd,144500
+812,IDOTRR,Wd Sdng,Wd Sdng,55993
+813,NAmes,MetalSd,MetalSd,157900
+814,Edwards,Stucco,Stucco,116000
+815,CollgCr,VinylSd,VinylSd,224900
+816,NAmes,BrkFace,BrkFace,137000
+817,Mitchel,CemntBd,CmentBd,271000
+818,ClearCr,HdBoard,HdBoard,155000
+819,NridgHt,VinylSd,VinylSd,224000
+820,CollgCr,VinylSd,VinylSd,183000
+821,OldTown,MetalSd,MetalSd,93000
+822,Gilbert,VinylSd,VinylSd,225000
+823,SWISU,VinylSd,VinylSd,139500
+824,Somerst,VinylSd,VinylSd,232600
+825,NridgHt,CemntBd,CmentBd,385000
+826,BrkSide,MetalSd,MetalSd,109500
+827,SawyerW,VinylSd,VinylSd,189000
+828,ClearCr,Plywood,Plywood,185000
+829,Somerst,MetalSd,MetalSd,147400
+830,NAmes,HdBoard,HdBoard,166000
+831,Somerst,MetalSd,MetalSd,151000
+832,CollgCr,VinylSd,VinylSd,237000
+833,NAmes,HdBoard,Plywood,167000
+834,NAmes,VinylSd,VinylSd,139950
+835,Sawyer,VinylSd,HdBoard,128000
+836,OldTown,VinylSd,VinylSd,153500
+837,BrDale,HdBoard,HdBoard,100000
+838,CollgCr,VinylSd,VinylSd,144000
+839,Edwards,MetalSd,MetalSd,130500
+840,SWISU,Wd Sdng,Wd Sdng,140000
+841,OldTown,MetalSd,MetalSd,157500
+842,NAmes,HdBoard,HdBoard,174900
+843,NAmes,BrkFace,BrkFace,141000
+844,OldTown,Wd Sdng,Wd Sdng,153900
+845,Sawyer,HdBoard,HdBoard,171000
+846,SawyerW,HdBoard,HdBoard,213000
+847,CollgCr,HdBoard,Plywood,133500
+848,ClearCr,Wd Sdng,Wd Sdng,240000
+849,Veenker,Plywood,Plywood,187000
+850,CollgCr,VinylSd,VinylSd,131500
+851,Blmngtn,VinylSd,VinylSd,215000
+852,Crawfor,MetalSd,MetalSd,164000
+853,NAmes,MetalSd,HdBoard,158000
+854,Sawyer,Wd Sdng,Plywood,170000
+855,Sawyer,HdBoard,HdBoard,127000
+856,CollgCr,Plywood,HdBoard,147000
+857,Gilbert,HdBoard,HdBoard,174000
+858,NWAmes,HdBoard,HdBoard,152000
+859,NWAmes,HdBoard,HdBoard,250000
+860,Crawfor,Wd Sdng,Wd Sdng,189950
+861,Sawyer,Plywood,HdBoard,131500
+862,SawyerW,HdBoard,Plywood,152000
+863,NAmes,BrkFace,Plywood,132500
+864,Somerst,VinylSd,VinylSd,250580
+865,NAmes,MetalSd,MetalSd,148500
+866,Timber,VinylSd,VinylSd,248900
+867,Sawyer,VinylSd,VinylSd,129000
+868,Gilbert,Plywood,Plywood,169000
+869,SawyerW,MetalSd,MetalSd,236000
+870,NAmes,MetalSd,MetalSd,109500
+871,CollgCr,VinylSd,VinylSd,200500
+872,NAmes,WdShing,Wd Shng,116000
+873,NAmes,HdBoard,HdBoard,133000
+874,OldTown,Wd Sdng,Wd Sdng,66500
+875,Somerst,CemntBd,CmentBd,303477
+876,Mitchel,HdBoard,Plywood,132250
+877,NridgHt,VinylSd,VinylSd,350000
+878,Sawyer,HdBoard,HdBoard,148000
+879,CollgCr,VinylSd,VinylSd,136500
+880,Edwards,VinylSd,VinylSd,157000
+881,Timber,HdBoard,HdBoard,187500
+882,Gilbert,VinylSd,VinylSd,178000
+883,SWISU,Wd Sdng,Wd Sdng,118500
+884,NAmes,HdBoard,HdBoard,100000
+885,Somerst,MetalSd,MetalSd,328900
+886,NAmes,MetalSd,MetalSd,145000
+887,Edwards,MetalSd,MetalSd,135500
+888,NAmes,Wd Sdng,Wd Sdng,268000
+889,NAmes,Wd Sdng,Wd Sdng,149500
+890,NAmes,MetalSd,MetalSd,122900
+891,Sawyer,HdBoard,HdBoard,172500
+892,Sawyer,HdBoard,HdBoard,154500
+893,Sawyer,Wd Sdng,Plywood,165000
+894,SawyerW,Plywood,Plywood,118858
+895,NAmes,HdBoard,HdBoard,140000
+896,IDOTRR,Wd Sdng,Wd Sdng,106500
+897,SawyerW,Plywood,Plywood,142953
+898,NridgHt,VinylSd,VinylSd,611657
+899,Sawyer,HdBoard,Plywood,135000
+900,NAmes,HdBoard,HdBoard,110000
+901,NAmes,MetalSd,MetalSd,153000
+902,Gilbert,VinylSd,VinylSd,180000
+903,Gilbert,VinylSd,VinylSd,240000
+904,Sawyer,HdBoard,Wd Sdng,125500
+905,NAmes,HdBoard,HdBoard,128000
+906,Somerst,VinylSd,VinylSd,255000
+907,Crawfor,BrkFace,BrkFace,250000
+908,Mitchel,HdBoard,HdBoard,131000
+909,Gilbert,VinylSd,VinylSd,174000
+910,NAmes,MetalSd,MetalSd,154300
+911,CollgCr,HdBoard,Plywood,143500
+912,BrkSide,MetalSd,MetalSd,88000
+913,Crawfor,MetalSd,MetalSd,145000
+914,Somerst,VinylSd,VinylSd,173733
+915,MeadowV,CemntBd,CmentBd,75000
+916,IDOTRR,AsbShng,AsbShng,35311
+917,Edwards,VinylSd,VinylSd,135000
+918,SawyerW,HdBoard,HdBoard,238000
+919,NAmes,MetalSd,MetalSd,176500
+920,SawyerW,HdBoard,HdBoard,201000
+921,Edwards,MetalSd,MetalSd,145900
+922,Gilbert,VinylSd,VinylSd,169990
+923,SawyerW,Plywood,Plywood,193000
+924,NWAmes,Plywood,Plywood,207500
+925,NWAmes,VinylSd,VinylSd,175000
+926,NridgHt,VinylSd,VinylSd,285000
+927,NWAmes,MetalSd,MetalSd,176000
+928,CollgCr,VinylSd,VinylSd,236500
+929,Gilbert,HdBoard,HdBoard,222000
+930,Timber,VinylSd,VinylSd,201000
+931,NAmes,VinylSd,VinylSd,117500
+932,Somerst,VinylSd,ImStucc,320000
+933,CollgCr,VinylSd,VinylSd,190000
+934,NAmes,Wd Sdng,Wd Sdng,242000
+935,BrkSide,MetalSd,MetalSd,79900
+936,SawyerW,VinylSd,VinylSd,184900
+937,Somerst,VinylSd,VinylSd,253000
+938,CollgCr,VinylSd,VinylSd,239799
+939,ClearCr,MetalSd,MetalSd,244400
+940,Mitchel,Plywood,Plywood,150900
+941,Gilbert,VinylSd,VinylSd,214000
+942,Edwards,MetalSd,MetalSd,150000
+943,Mitchel,HdBoard,Plywood,143000
+944,Timber,HdBoard,HdBoard,137500
+945,OldTown,VinylSd,VinylSd,124900
+946,NAmes,HdBoard,HdBoard,143000
+947,Timber,VinylSd,VinylSd,270000
+948,CollgCr,VinylSd,VinylSd,192500
+949,NWAmes,Plywood,Plywood,197500
+950,NAmes,VinylSd,VinylSd,129000
+951,SawyerW,VinylSd,VinylSd,119900
+952,CollgCr,WdShing,HdBoard,133900
+953,Mitchel,HdBoard,HdBoard,172000
+954,Edwards,WdShing,Plywood,127500
+955,Crawfor,MetalSd,MetalSd,145000
+956,Blueste,MetalSd,MetalSd,124000
+957,Sawyer,MetalSd,MetalSd,132000
+958,CollgCr,VinylSd,VinylSd,185000
+959,Somerst,MetalSd,MetalSd,155000
+960,BrkSide,Wd Sdng,Plywood,116500
+961,NWAmes,HdBoard,HdBoard,272000
+962,NPkVill,Plywood,Brk Cmn,155000
+963,CollgCr,VinylSd,VinylSd,239000
+964,Timber,VinylSd,VinylSd,214900
+965,Gilbert,VinylSd,VinylSd,178900
+966,Crawfor,MetalSd,MetalSd,160000
+967,NAmes,Wd Sdng,Wd Sdng,135000
+968,OldTown,VinylSd,VinylSd,37900
+969,NAmes,HdBoard,HdBoard,140000
+970,NAmes,AsbShng,AsbShng,135000
+971,NridgHt,VinylSd,Wd Shng,173000
+972,SawyerW,Plywood,Plywood,99500
+973,Somerst,CemntBd,CmentBd,182000
+974,BrkSide,HdBoard,HdBoard,167500
+975,Somerst,MetalSd,MetalSd,165000
+976,BrkSide,Wd Sdng,Wd Sdng,85500
+977,Somerst,VinylSd,VinylSd,199900
+978,Edwards,MetalSd,MetalSd,110000
+979,Sawyer,VinylSd,VinylSd,139000
+980,NAmes,CemntBd,CmentBd,178400
+981,NoRidge,VinylSd,VinylSd,336000
+982,Blmngtn,VinylSd,VinylSd,159895
+983,CollgCr,CemntBd,CmentBd,255900
+984,Mitchel,Plywood,Plywood,126000
+985,Edwards,MetalSd,MetalSd,125000
+986,OldTown,VinylSd,VinylSd,117000
+987,NridgHt,VinylSd,VinylSd,395192
+988,NWAmes,Plywood,Plywood,195000
+989,Somerst,VinylSd,VinylSd,197000
+990,NoRidge,VinylSd,VinylSd,348000
+991,OldTown,Wd Sdng,Wd Sdng,168000
+992,NAmes,Wd Sdng,Wd Sdng,187000
+993,CollgCr,VinylSd,VinylSd,173900
+994,NridgHt,CemntBd,CmentBd,337500
+995,BrkSide,MetalSd,MetalSd,121600
+996,NAmes,Wd Sdng,Wd Sdng,136500
+997,NWAmes,HdBoard,HdBoard,185000
+998,IDOTRR,Wd Sdng,Wd Sdng,91000
+999,CollgCr,VinylSd,VinylSd,206000
+1000,Edwards,BrkComm,Brk Cmn,82000
+1001,OldTown,Wd Sdng,Wd Sdng,86000
+1002,Somerst,VinylSd,VinylSd,232000
+1003,NWAmes,VinylSd,VinylSd,136905
+1004,Blmngtn,VinylSd,VinylSd,181000
+1005,CollgCr,HdBoard,HdBoard,149900
+1006,NAmes,Plywood,Plywood,163500
+1007,MeadowV,CemntBd,CmentBd,88000
+1008,Mitchel,VinylSd,VinylSd,240000
+1009,SWISU,Wd Sdng,Wd Sdng,102000
+1010,Sawyer,Wd Sdng,Wd Sdng,135000
+1011,Edwards,AsphShn,AsphShn,100000
+1012,Crawfor,Wd Sdng,Wd Sdng,165000
+1013,OldTown,MetalSd,Stucco,85000
+1014,NAmes,MetalSd,MetalSd,119200
+1015,NWAmes,VinylSd,VinylSd,227000
+1016,CollgCr,VinylSd,VinylSd,203000
+1017,StoneBr,HdBoard,HdBoard,187500
+1018,Gilbert,HdBoard,HdBoard,160000
+1019,Blmngtn,VinylSd,VinylSd,213490
+1020,Edwards,VinylSd,VinylSd,176000
+1021,CollgCr,VinylSd,VinylSd,194000
+1022,OldTown,Wd Sdng,Wd Sdng,87000
+1023,Blmngtn,VinylSd,VinylSd,191000
+1024,Timber,Stone,HdBoard,287000
+1025,CollgCr,VinylSd,VinylSd,112500
+1026,NAmes,MetalSd,HdBoard,167500
+1027,Timber,VinylSd,VinylSd,293077
+1028,NAmes,WdShing,Wd Shng,105000
+1029,BrDale,HdBoard,HdBoard,118000
+1030,SWISU,VinylSd,VinylSd,160000
+1031,SWISU,Wd Sdng,Plywood,197000
+1032,NoRidge,MetalSd,MetalSd,310000
+1033,CollgCr,VinylSd,VinylSd,230000
+1034,Crawfor,MetalSd,MetalSd,119750
+1035,Edwards,Wd Sdng,Wd Sdng,84000
+1036,Timber,VinylSd,VinylSd,315500
+1037,CollgCr,VinylSd,VinylSd,287000
+1038,MeadowV,CemntBd,CmentBd,97000
+1039,MeadowV,CemntBd,CmentBd,80000
+1040,Sawyer,Wd Sdng,Wd Sdng,155000
+1041,NWAmes,HdBoard,HdBoard,173000
+1042,NridgHt,VinylSd,VinylSd,196000
+1043,SawyerW,HdBoard,HdBoard,262280
+1044,NWAmes,BrkFace,BrkFace,278000
+1045,Edwards,BrkFace,Wd Sdng,139600
+1046,StoneBr,CemntBd,CmentBd,556581
+1047,CollgCr,VinylSd,VinylSd,145000
+1048,Mitchel,HdBoard,HdBoard,115000
+1049,Edwards,MetalSd,MetalSd,84900
+1050,Gilbert,VinylSd,VinylSd,176485
+1051,CollgCr,VinylSd,VinylSd,200141
+1052,NAmes,VinylSd,VinylSd,165000
+1053,Edwards,HdBoard,HdBoard,144500
+1054,CollgCr,VinylSd,VinylSd,255000
+1055,NWAmes,Plywood,Plywood,180000
+1056,NridgHt,VinylSd,VinylSd,185850
+1057,NoRidge,HdBoard,HdBoard,248000
+1058,NridgHt,VinylSd,VinylSd,335000
+1059,Crawfor,MetalSd,MetalSd,220000
+1060,StoneBr,CemntBd,CmentBd,213500
+1061,IDOTRR,MetalSd,MetalSd,81000
+1062,OldTown,Wd Sdng,Wd Sdng,90000
+1063,OldTown,MetalSd,MetalSd,110500
+1064,NAmes,Plywood,Plywood,154000
+1065,ClearCr,Wd Sdng,Wd Sdng,328000
+1066,Gilbert,VinylSd,VinylSd,178000
+1067,NAmes,HdBoard,HdBoard,167900
+1068,MeadowV,CemntBd,CmentBd,151400
+1069,NAmes,MetalSd,MetalSd,135000
+1070,NAmes,MetalSd,MetalSd,135000
+1071,NWAmes,MetalSd,MetalSd,154000
+1072,Edwards,MetalSd,MetalSd,91500
+1073,Edwards,HdBoard,Plywood,159500
+1074,CollgCr,VinylSd,VinylSd,194000
+1075,Crawfor,Wd Sdng,Wd Sdng,219500
+1076,OldTown,Wd Sdng,Wd Sdng,170000
+1077,NAmes,VinylSd,Plywood,138800
+1078,CollgCr,VinylSd,VinylSd,155900
+1079,CollgCr,VinylSd,VinylSd,126000
+1080,NWAmes,VinylSd,VinylSd,145000
+1081,Sawyer,HdBoard,HdBoard,133000
+1082,CollgCr,VinylSd,VinylSd,192000
+1083,NAmes,HdBoard,HdBoard,160000
+1084,Gilbert,HdBoard,HdBoard,187500
+1085,SawyerW,HdBoard,HdBoard,147000
+1086,MeadowV,CemntBd,CmentBd,83500
+1087,Somerst,VinylSd,VinylSd,252000
+1088,Edwards,VinylSd,VinylSd,137500
+1089,Somerst,MetalSd,MetalSd,197000
+1090,NAmes,BrkFace,BrkFace,92900
+1091,Somerst,MetalSd,MetalSd,160000
+1092,SWISU,MetalSd,MetalSd,136500
+1093,NAmes,MetalSd,MetalSd,146000
+1094,NAmes,MetalSd,MetalSd,129000
+1095,CollgCr,VinylSd,VinylSd,176432
+1096,IDOTRR,Wd Sdng,Wd Sdng,127000
+1097,StoneBr,HdBoard,HdBoard,170000
+1098,BrkSide,MetalSd,MetalSd,128000
+1099,NWAmes,Plywood,Plywood,157000
+1100,SWISU,Wd Sdng,Wd Sdng,60000
+1101,NAmes,HdBoard,MetalSd,119500
+1102,NAmes,Wd Sdng,Wd Sdng,135000
+1103,NAmes,BrkFace,BrkFace,159500
+1104,BrDale,HdBoard,HdBoard,106000
+1105,NoRidge,HdBoard,HdBoard,325000
+1106,SawyerW,HdBoard,HdBoard,179900
+1107,Gilbert,VinylSd,VinylSd,274725
+1108,Gilbert,VinylSd,VinylSd,181000
+1109,NridgHt,MetalSd,MetalSd,280000
+1110,Gilbert,HdBoard,HdBoard,188000
+1111,NWAmes,Plywood,Plywood,205000
+1112,NAmes,WdShing,Wd Shng,129900
+1113,NAmes,Wd Sdng,Wd Sdng,134500
+1114,OldTown,MetalSd,MetalSd,117000
+1115,NridgHt,VinylSd,VinylSd,318000
+1116,Gilbert,VinylSd,VinylSd,184100
+1117,Sawyer,VinylSd,VinylSd,130000
+1118,Sawyer,MetalSd,MetalSd,140000
+1119,NAmes,BrkFace,Wd Sdng,133700
+1120,IDOTRR,BrkFace,BrkFace,118400
+1121,CollgCr,VinylSd,VinylSd,212900
+1122,Edwards,AsbShng,AsbShng,112000
+1123,Edwards,VinylSd,VinylSd,118000
+1124,Gilbert,HdBoard,HdBoard,163900
+1125,NAmes,Plywood,Plywood,115000
+1126,Blmngtn,VinylSd,VinylSd,174000
+1127,Gilbert,VinylSd,VinylSd,259000
+1128,Gilbert,VinylSd,VinylSd,215000
+1129,OldTown,MetalSd,MetalSd,140000
+1130,SWISU,WdShing,Plywood,135000
+1131,Mitchel,HdBoard,HdBoard,93500
+1132,OldTown,Wd Sdng,Wd Sdng,117500
+1133,SawyerW,VinylSd,VinylSd,239500
+1134,Gilbert,VinylSd,VinylSd,169000
+1135,BrkSide,Wd Sdng,Wd Sdng,102000
+1136,NAmes,VinylSd,VinylSd,119000
+1137,Sawyer,VinylSd,VinylSd,94000
+1138,Mitchel,Plywood,ImStucc,196000
+1139,BrkSide,Stucco,Stucco,144000
+1140,NAmes,HdBoard,HdBoard,139000
+1141,NWAmes,Plywood,Plywood,197500
+1142,CollgCr,VinylSd,VinylSd,424870
+1143,Sawyer,Wd Sdng,Plywood,80000
+1144,Edwards,MetalSd,MetalSd,80000
+1145,BrkSide,MetalSd,MetalSd,149000
+1146,SawyerW,Wd Sdng,Wd Shng,180000
+1147,Crawfor,MetalSd,MetalSd,174500
+1148,OldTown,Wd Sdng,Wd Sdng,116900
+1149,OldTown,VinylSd,VinylSd,143000
+1150,NAmes,BrkFace,BrkFace,124000
+1151,Edwards,HdBoard,Plywood,149900
+1152,Crawfor,Stone,Stone,230000
+1153,IDOTRR,Wd Sdng,Wd Sdng,120500
+1154,NAmes,VinylSd,VinylSd,201800
+1155,Veenker,Plywood,Plywood,218000
+1156,NAmes,BrkFace,BrkFace,179900
+1157,NridgHt,VinylSd,VinylSd,230000
+1158,Somerst,VinylSd,VinylSd,235128
+1159,NWAmes,HdBoard,HdBoard,185000
+1160,NPkVill,Plywood,Brk Cmn,146000
+1161,Crawfor,HdBoard,HdBoard,224000
+1162,Sawyer,VinylSd,VinylSd,129000
+1163,Sawyer,Plywood,Plywood,108959
+1164,Veenker,Plywood,Plywood,194000
+1165,NridgHt,VinylSd,VinylSd,233170
+1166,CollgCr,VinylSd,VinylSd,245350
+1167,Gilbert,VinylSd,VinylSd,173000
+1168,Edwards,Stucco,Stucco,235000
+1169,NoRidge,HdBoard,HdBoard,625000
+1170,Mitchel,Plywood,Plywood,171000
+1171,NAmes,MetalSd,MetalSd,163000
+1172,Somerst,MetalSd,MetalSd,171900
+1173,ClearCr,MetalSd,MetalSd,200500
+1174,Crawfor,Wd Sdng,Wd Sdng,239000
+1175,NoRidge,HdBoard,HdBoard,285000
+1176,Mitchel,HdBoard,Plywood,119500
+1177,OldTown,MetalSd,MetalSd,115000
+1178,Crawfor,Wd Sdng,Wd Sdng,154900
+1179,Edwards,Wd Sdng,Wd Sdng,93000
+1180,Timber,MetalSd,MetalSd,250000
+1181,Crawfor,CemntBd,CmentBd,392500
+1182,NoRidge,Wd Sdng,ImStucc,745000
+1183,OldTown,Stucco,Stucco,120000
+1184,Timber,MetalSd,MetalSd,186700
+1185,Edwards,AsbShng,AsbShng,104900
+1186,OldTown,HdBoard,HdBoard,95000
+1187,NoRidge,ImStucc,ImStucc,262000
+1188,CollgCr,VinylSd,VinylSd,195000
+1189,Gilbert,VinylSd,VinylSd,189000
+1190,Mitchel,MetalSd,MetalSd,168000
+1191,Somerst,MetalSd,MetalSd,174000
+1192,OldTown,VinylSd,VinylSd,125000
+1193,Mitchel,VinylSd,VinylSd,165000
+1194,Sawyer,HdBoard,HdBoard,158000
+1195,Gilbert,VinylSd,VinylSd,176000
+1196,Gilbert,VinylSd,VinylSd,219210
+1197,OldTown,MetalSd,MetalSd,144000
+1198,CollgCr,VinylSd,VinylSd,178000
+1199,Sawyer,HdBoard,HdBoard,148000
+1200,NAmes,MetalSd,MetalSd,116050
+1201,CollgCr,VinylSd,VinylSd,197900
+1202,BrkSide,Wd Sdng,Wd Sdng,117000
+1203,CollgCr,VinylSd,VinylSd,213000
+1204,NWAmes,HdBoard,HdBoard,153500
+1205,SawyerW,HdBoard,HdBoard,271900
+1206,SawyerW,HdBoard,HdBoard,107000
+1207,CollgCr,VinylSd,VinylSd,200000
+1208,NAmes,MetalSd,MetalSd,140000
+1209,Somerst,VinylSd,VinylSd,290000
+1210,SawyerW,Wd Sdng,Wd Sdng,189000
+1211,Gilbert,Wd Sdng,Wd Sdng,164000
+1212,Edwards,MetalSd,MetalSd,113000
+1213,Sawyer,VinylSd,VinylSd,145000
+1214,NAmes,MetalSd,MetalSd,134500
+1215,Sawyer,VinylSd,VinylSd,125000
+1216,Sawyer,VinylSd,VinylSd,112000
+1217,Somerst,CemntBd,CmentBd,229456
+1218,BrkSide,AsbShng,AsbShng,80500
+1219,BrDale,CemntBd,CmentBd,91500
+1220,NAmes,Wd Sdng,Wd Sdng,115000
+1221,Sawyer,HdBoard,HdBoard,134000
+1222,NAmes,Wd Sdng,Wd Sdng,143000
+1223,NAmes,Wd Sdng,Wd Sdng,137900
+1224,Gilbert,VinylSd,VinylSd,184000
+1225,NAmes,VinylSd,VinylSd,145000
+1226,Somerst,VinylSd,VinylSd,214000
+1227,NAmes,VinylSd,VinylSd,147000
+1228,NridgHt,MetalSd,MetalSd,367294
+1229,NAmes,BrkFace,HdBoard,127000
+1230,Sawyer,Plywood,Plywood,190000
+1231,NAmes,Wd Sdng,Wd Sdng,132500
+1232,NAmes,HdBoard,HdBoard,101800
+1233,NAmes,Plywood,Plywood,142000
+1234,SWISU,MetalSd,MetalSd,130000
+1235,Crawfor,Wd Sdng,Wd Sdng,138887
+1236,NridgHt,VinylSd,Wd Shng,175500
+1237,CollgCr,VinylSd,VinylSd,195000
+1238,SawyerW,VinylSd,VinylSd,142500
+1239,Timber,VinylSd,VinylSd,265900
+1240,CollgCr,VinylSd,VinylSd,224900
+1241,Somerst,VinylSd,VinylSd,248328
+1242,NWAmes,Plywood,Plywood,170000
+1243,NridgHt,VinylSd,VinylSd,465000
+1244,Crawfor,BrkFace,Stucco,230000
+1245,NWAmes,VinylSd,VinylSd,178000
+1246,Somerst,VinylSd,VinylSd,186500
+1247,Mitchel,HdBoard,HdBoard,169900
+1248,OldTown,AsbShng,AsbShng,129500
+1249,NAmes,MetalSd,MetalSd,119000
+1250,NAmes,BrkFace,BrkFace,244000
+1251,NridgHt,VinylSd,Wd Shng,171750
+1252,Mitchel,HdBoard,HdBoard,130000
+1253,Veenker,Wd Sdng,Wd Sdng,294000
+1254,Edwards,VinylSd,VinylSd,165400
+1255,BrkSide,Wd Sdng,Wd Sdng,127500
+1256,NoRidge,HdBoard,HdBoard,301500
+1257,Edwards,Wd Sdng,Wd Sdng,99900
+1258,Gilbert,VinylSd,VinylSd,190000
+1259,NAmes,HdBoard,HdBoard,151000
+1260,Gilbert,VinylSd,VinylSd,181000
+1261,NAmes,MetalSd,MetalSd,128900
+1262,ClearCr,Wd Sdng,Wd Sdng,161500
+1263,BrkSide,Wd Sdng,Wd Sdng,180500
+1264,NAmes,MetalSd,MetalSd,181000
+1265,Somerst,MetalSd,MetalSd,183900
+1266,OldTown,Wd Sdng,Wd Sdng,122000
+1267,Timber,Stucco,CmentBd,378500
+1268,Crawfor,Stucco,Stucco,381000
+1269,NAmes,MetalSd,MetalSd,144000
+1270,ClearCr,Plywood,Plywood,260000
+1271,NWAmes,BrkFace,BrkFace,185750
+1272,Sawyer,HdBoard,Plywood,137000
+1273,Edwards,Plywood,Plywood,177000
+1274,Crawfor,Wd Sdng,Wd Shng,139000
+1275,NAmes,AsbShng,AsbShng,137000
+1276,NWAmes,HdBoard,Plywood,162000
+1277,NWAmes,HdBoard,HdBoard,197900
+1278,CollgCr,VinylSd,VinylSd,237000
+1279,IDOTRR,MetalSd,MetalSd,68400
+1280,CollgCr,VinylSd,VinylSd,227000
+1281,Timber,HdBoard,HdBoard,180000
+1282,CollgCr,HdBoard,HdBoard,150500
+1283,Mitchel,MetalSd,Wd Shng,139000
+1284,SWISU,Wd Sdng,Wd Shng,169000
+1285,BrkSide,MetalSd,MetalSd,132500
+1286,NWAmes,HdBoard,HdBoard,143000
+1287,ClearCr,Wd Sdng,Wd Sdng,190000
+1288,StoneBr,CemntBd,CmentBd,278000
+1289,NridgHt,VinylSd,VinylSd,281000
+1290,NAmes,Wd Sdng,HdBoard,180500
+1291,BrDale,CemntBd,CmentBd,119500
+1292,OldTown,Wd Sdng,Wd Sdng,107500
+1293,NWAmes,HdBoard,HdBoard,162900
+1294,Edwards,WdShing,Plywood,115000
+1295,NAmes,HdBoard,HdBoard,138500
+1296,NAmes,MetalSd,MetalSd,155000
+1297,Edwards,VinylSd,VinylSd,140000
+1298,Edwards,Stucco,Stucco,160000
+1299,NAmes,BrkFace,BrkFace,154000
+1300,Gilbert,VinylSd,VinylSd,225000
+1301,Crawfor,Wd Sdng,Wd Sdng,177500
+1302,NoRidge,VinylSd,VinylSd,290000
+1303,Somerst,VinylSd,VinylSd,232000
+1304,Edwards,VinylSd,VinylSd,130000
+1305,NridgHt,VinylSd,VinylSd,325000
+1306,NridgHt,VinylSd,VinylSd,202500
+1307,CollgCr,VinylSd,VinylSd,138000
+1308,OldTown,MetalSd,MetalSd,147000
+1309,SawyerW,HdBoard,HdBoard,179200
+1310,Crawfor,BrkFace,HdBoard,335000
+1311,CollgCr,VinylSd,VinylSd,203000
+1312,NoRidge,Wd Sdng,Wd Sdng,302000
+1313,NoRidge,VinylSd,VinylSd,333168
+1314,Edwards,Wd Sdng,Wd Sdng,119000
+1315,NAmes,HdBoard,HdBoard,206900
+1316,CollgCr,VinylSd,VinylSd,295493
+1317,Somerst,VinylSd,VinylSd,208900
+1318,CollgCr,VinylSd,VinylSd,275000
+1319,Edwards,Wd Sdng,Wd Sdng,111000
+1320,NAmes,BrkFace,BrkFace,156500
+1321,BrkSide,VinylSd,VinylSd,72500
+1322,NoRidge,HdBoard,HdBoard,190000
+1323,BrkSide,VinylSd,VinylSd,82500
+1324,Somerst,VinylSd,VinylSd,147000
+1325,IDOTRR,AsbShng,AsbShng,55000
+1326,Edwards,MetalSd,MetalSd,79000
+1327,Mitchel,VinylSd,VinylSd,130500
+1328,OldTown,BrkFace,Wd Sdng,256000
+1329,Gilbert,VinylSd,VinylSd,176500
+1330,Somerst,VinylSd,VinylSd,227000
+1331,CollgCr,MetalSd,MetalSd,132500
+1332,Edwards,MetalSd,MetalSd,100000
+1333,IDOTRR,Wd Sdng,Wd Sdng,125500
+1334,BrDale,HdBoard,HdBoard,125000
+1335,NWAmes,Plywood,Plywood,167900
+1336,NWAmes,Plywood,Plywood,135000
+1337,OldTown,Wd Sdng,Wd Sdng,52500
+1338,CollgCr,VinylSd,VinylSd,200000
+1339,CollgCr,MetalSd,MetalSd,128500
+1340,NAmes,MetalSd,MetalSd,123000
+1341,SawyerW,VinylSd,VinylSd,155000
+1342,CollgCr,VinylSd,VinylSd,228500
+1343,Crawfor,BrkFace,Stone,177000
+1344,CollgCr,VinylSd,VinylSd,155835
+1345,OldTown,MetalSd,MetalSd,108500
+1346,NWAmes,BrkFace,HdBoard,262500
+1347,Timber,VinylSd,VinylSd,283463
+1348,SawyerW,VinylSd,VinylSd,215000
+1349,OldTown,MetalSd,MetalSd,122000
+1350,NAmes,MetalSd,MetalSd,200000
+1351,NAmes,HdBoard,HdBoard,171000
+1352,BrkSide,MetalSd,MetalSd,134900
+1353,NoRidge,VinylSd,VinylSd,410000
+1354,CollgCr,VinylSd,VinylSd,235000
+1355,NWAmes,MetalSd,MetalSd,170000
+1356,NAmes,HdBoard,HdBoard,110000
+1357,NAmes,VinylSd,VinylSd,149900
+1358,Somerst,MetalSd,MetalSd,177500
+1359,NridgHt,VinylSd,VinylSd,315000
+1360,SWISU,MetalSd,Wd Sdng,189000
+1361,StoneBr,VinylSd,VinylSd,260000
+1362,NAmes,VinylSd,VinylSd,104900
+1363,Gilbert,VinylSd,VinylSd,156932
+1364,Somerst,MetalSd,MetalSd,144152
+1365,Somerst,VinylSd,VinylSd,216000
+1366,CollgCr,VinylSd,VinylSd,193000
+1367,MeadowV,CemntBd,CmentBd,127000
+1368,CollgCr,VinylSd,VinylSd,144000
+1369,CollgCr,VinylSd,VinylSd,232000
+1370,OldTown,CBlock,CBlock,105000
+1371,NAmes,AsbShng,AsbShng,165500
+1372,CollgCr,VinylSd,VinylSd,274300
+1373,NoRidge,VinylSd,VinylSd,466500
+1374,Somerst,CemntBd,CmentBd,250000
+1375,Timber,VinylSd,VinylSd,239000
+1376,SWISU,Wd Sdng,Wd Sdng,91000
+1377,Edwards,Wd Sdng,Wd Sdng,117000
+1378,BrDale,HdBoard,HdBoard,83000
+1379,Timber,VinylSd,VinylSd,167500
+1380,Edwards,Stucco,Stucco,58500
+1381,NAmes,BrkFace,Plywood,237500
+1382,OldTown,Wd Sdng,Wd Sdng,157000
+1383,Sawyer,Wd Sdng,Wd Sdng,112000
+1384,Edwards,WdShing,Wd Shng,105000
+1385,IDOTRR,VinylSd,VinylSd,125500
+1386,NWAmes,Plywood,Plywood,250000
+1387,OldTown,Stucco,Stucco,136000
+1388,Gilbert,VinylSd,VinylSd,377500
+1389,BrkSide,Wd Sdng,Wd Sdng,131000
+1390,CollgCr,VinylSd,VinylSd,235000
+1391,NAmes,Plywood,Plywood,124000
+1392,NAmes,HdBoard,HdBoard,123000
+1393,OldTown,Wd Sdng,Wd Sdng,163000
+1394,Blmngtn,VinylSd,VinylSd,246578
+1395,Timber,VinylSd,VinylSd,281213
+1396,Timber,Wd Sdng,Wd Sdng,160000
+1397,BrkSide,MetalSd,MetalSd,137500
+1398,NAmes,VinylSd,Wd Sdng,138000
+1399,SWISU,WdShing,Wd Shng,137450
+1400,BrkSide,WdShing,Wd Shng,120000
+1401,Gilbert,VinylSd,VinylSd,193000
+1402,CollgCr,VinylSd,VinylSd,193879
+1403,Somerst,VinylSd,VinylSd,282922
+1404,OldTown,Wd Sdng,Wd Sdng,105000
+1405,Crawfor,CemntBd,CmentBd,275000
+1406,CollgCr,HdBoard,Wd Shng,133000
+1407,Mitchel,HdBoard,Plywood,112000
+1408,OldTown,VinylSd,VinylSd,125500
+1409,NWAmes,Plywood,Plywood,215000
+1410,CollgCr,VinylSd,VinylSd,230000
+1411,NAmes,VinylSd,VinylSd,140000
+1412,NAmes,BrkFace,Stone,90000
+1413,SawyerW,VinylSd,VinylSd,257000
+1414,BrkSide,Wd Sdng,Wd Sdng,207000
+1415,Blmngtn,VinylSd,VinylSd,175900
+1416,OldTown,VinylSd,AsbShng,122500
+1417,NoRidge,VinylSd,VinylSd,340000
+1418,NAmes,HdBoard,HdBoard,124000
+1419,Crawfor,Plywood,Plywood,223000
+1420,NWAmes,HdBoard,HdBoard,179900
+1421,NPkVill,Plywood,Plywood,127500
+1422,CollgCr,VinylSd,VinylSd,136500
+1423,Edwards,Plywood,Plywood,274970
+1424,NAmes,HdBoard,HdBoard,144000
+1425,NAmes,HdBoard,HdBoard,142000
+1426,NoRidge,VinylSd,VinylSd,271000
+1427,NAmes,MetalSd,MetalSd,140000
+1428,OldTown,MetalSd,MetalSd,119000
+1429,NWAmes,MetalSd,MetalSd,182900
+1430,Gilbert,VinylSd,VinylSd,192140
+1431,NPkVill,Plywood,Plywood,143750
+1432,OldTown,Wd Sdng,Wd Sdng,64500
+1433,Gilbert,VinylSd,VinylSd,186500
+1434,Mitchel,BrkFace,BrkFace,160000
+1435,NAmes,Wd Sdng,Wd Sdng,174000
+1436,NAmes,HdBoard,HdBoard,120500
+1437,NridgHt,VinylSd,VinylSd,394617
+1438,OldTown,MetalSd,MetalSd,149700
+1439,NWAmes,HdBoard,HdBoard,197000
+1440,Crawfor,MetalSd,MetalSd,191000
+1441,CollgCr,VinylSd,VinylSd,149300
+1442,Somerst,VinylSd,VinylSd,310000
+1443,BrkSide,Wd Sdng,Wd Sdng,121000
+1444,CollgCr,VinylSd,VinylSd,179600
+1445,Sawyer,VinylSd,VinylSd,129000
+1446,Mitchel,HdBoard,HdBoard,157900
+1447,CollgCr,VinylSd,VinylSd,240000
+1448,Edwards,MetalSd,HdBoard,112000
+1449,MeadowV,CemntBd,CmentBd,92000
+1450,NAmes,VinylSd,VinylSd,136000
+1451,Somerst,CemntBd,CmentBd,287090
+1452,Edwards,VinylSd,VinylSd,145000
+1453,Mitchel,VinylSd,VinylSd,84500
+1454,Somerst,VinylSd,VinylSd,185000
+1455,Gilbert,VinylSd,VinylSd,175000
+1456,NWAmes,Plywood,Plywood,210000
+1457,Crawfor,CemntBd,CmentBd,266500
+1458,NAmes,MetalSd,MetalSd,142125
+1459,Edwards,HdBoard,HdBoard,147500
